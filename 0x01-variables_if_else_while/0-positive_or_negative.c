@@ -1,5 +1,4 @@
-#!/bin/bash
-#include <studio.h>
+include <studio.h>
 #include <time.h>
 #include <stdlib.h>
 
