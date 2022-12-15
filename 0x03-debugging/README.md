@@ -1,1 +1,1 @@
-Debugging is finding and fixing errors process
+Debugging is the process of finding and fixing errors
