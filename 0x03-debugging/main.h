@@ -1,5 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
+<<<<<<< HEAD
+=======
+
+>>>>>>> 101dc611481497c1335852eb177058b28f475ced
 #include <stdio.h>
 
 void positive_or_negative(int i);
